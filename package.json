@@ -1,0 +1,31 @@
+{
+  "name": "Google Facebook TryOut",
+  "private": true,
+  "scripts": {
+    "start": "app.js"
+  },
+  "description": "",
+  "version": "0.0.1",
+  "main": "app.js",
+  "dependencies": {
+    "async": "^1.3.0",
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "^1.13.1",
+    "bson": "^0.4.7",
+    "connect-flash": "^0.1.1",
+    "cookie-parser": "^1.3.5",
+    "crypto": "^0.0.3",
+    "express": "^4.13.0",
+    "express-session": "^1.11.3",
+    "fs": "latest",
+    "fs-extra": "^0.22.1",
+    "googleapis": "^2.0.6",
+    "method-override": "^2.3.3",
+    "methods": "^1.1.1",
+    "morgan": "^1.6.0",
+    "passport": "^0.2.2",
+    "passport-custom": "^1.0.1",
+    "passport-facebook": "^2.0.0",
+    "passport-local": "^1.0.0"
+  }
+}
